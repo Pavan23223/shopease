@@ -244,6 +244,17 @@ This project demonstrates:
 
 ------------------------------------------------------------------------
 
+# Admin Login
+- Mail - admin@shopease.com
+- Password - 123456
+
+# Customer Login
+- Mail - pavan@gamil.com
+- Password - 123456
+
+  
+------------------------------------------------------------------------
+
 # Author
 
 **Pavankalyan V**
