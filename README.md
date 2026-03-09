@@ -259,5 +259,5 @@ This project demonstrates:
 
 **Pavankalyan V**
 
-Computer Science Student \| Full Stack Developer\
+Computer Science Student \| Learning Full Stack Development\
 Interested in Web Development, AI, and Cloud Technologies
